@@ -2,6 +2,8 @@
 
 Per-volume disk space monitor in your macOS menu bar. Shows usage percentage, color-coded bars, and free space at a glance.
 
+![DiskPulse screenshot](screenshot.png)
+
 ## Why
 
 Disk space is buried in Finder status bars or System Settings. Developers lose space silently to node_modules, Docker images, Xcode derived data, and build caches. DiskPulse keeps your boot volume usage visible at all times and shows all mounted volumes in a clean popup.
