@@ -1,0 +1,7 @@
+# Compiled binaries
+DiskPulse
+*.app/
+.DS_Store
+*.o
+*.swp
+*~
